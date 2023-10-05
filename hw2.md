@@ -26,4 +26,4 @@ gantt
 ```
 ---
 # PERT/CPM圖 
-![NO1](NO1.jpg"NO1")
+![peter](NO1.jpg"NO1")
