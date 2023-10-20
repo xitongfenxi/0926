@@ -81,7 +81,7 @@ gantt
 ```
 ---
 ### 功能分解圖
-![peter](NO1.jpg "NO1")
+![branch](branch.jpg "branch")
 ---
 ### 需求分析的文字描述
 
