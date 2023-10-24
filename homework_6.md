@@ -94,3 +94,11 @@ gantt
 
 ### 使用Figma劃出第一個使用案例的動態模擬畫面
 <https://reurl.cc/Ry96nD>
+
+---
+---
+### 繪出系統環境圖 (DFD)
+![DFD](DFD.jpg "DFD")
+---
+### 繪製DFD 圖0 
+![DFD0](DFD0.jpg "DFD0")
