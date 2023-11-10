@@ -112,6 +112,8 @@ gantt
 ***
 
 ### 繪出UML 類別圖(class Diagram)
+![UML](HW6.jpg "UML")
+
 ---
 ### 繪製循序圖
 ---
