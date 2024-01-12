@@ -112,7 +112,7 @@ gantt
 ***
 
 ### 繪出UML 類別圖(class Diagram)
-![UML](IMG_0072.jpge "UML")
+![UML](IMG_0072.jpeg "UML")
 
 ---
 
